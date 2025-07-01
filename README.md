@@ -60,5 +60,8 @@ After installing dependencies and Tesseract, run the app:
 python ocr_app.py
 
 📸 **Screenshot**
+
+
+
 ![image](https://github.com/user-attachments/assets/7ca54975-ec86-4843-a54b-227a34f0bac5)
 
